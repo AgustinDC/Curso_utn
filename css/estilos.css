@@ -1,0 +1,14 @@
+p {
+    color: red;
+    font-family: 'Open Sans', sans-serif;
+}
+
+p:hover {
+    color: green;
+}
+
+#boton:hover{
+    background-color: aquamarine;
+    transform: rotate(25deg);
+    transition: ease-in 0.5s;
+}
